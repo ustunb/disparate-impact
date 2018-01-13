@@ -1,2 +1,3 @@
 # disparate-impact
-Code for "An Information-Theoretic View on Disparate Impact"
+
+Code for the paper [On the Direction of Discrimination: An Information-Theoretic Analysis of Disparate Impact in ML](https://scholar.harvard.edu/files/hao/files/fullversion.pdf)
